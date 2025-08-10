@@ -5,7 +5,7 @@ This is my personal portfolio website built using **HTML, CSS, and JavaScript**.
 
 ## 🚀 Tech Used
 - HTML5  
-- CSS3  
+- CSS  
 - JavaScript  
 - Figma (Design)  
 - GitHub Pages (Hosting)
